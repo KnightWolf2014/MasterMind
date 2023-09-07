@@ -1,0 +1,10 @@
+Top 1) Player: Joel, Intents: 4, Temps: 0:42
+Top 2) Player: Joel, Intents: 9, Temps: 4:10
+Top 3) Player: EMPTY, Intents: 99, Temps: 99:99
+Top 4) Player: EMPTY, Intents: 99, Temps: 99:99
+Top 5) Player: EMPTY, Intents: 99, Temps: 99:99
+Top 6) Player: EMPTY, Intents: 99, Temps: 99:99
+Top 7) Player: EMPTY, Intents: 99, Temps: 99:99
+Top 8) Player: EMPTY, Intents: 99, Temps: 99:99
+Top 9) Player: EMPTY, Intents: 99, Temps: 99:99
+Top 10) Player: EMPTY, Intents: 99, Temps: 99:99

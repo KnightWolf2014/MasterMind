@@ -1,0 +1,41 @@
+Objecte de la prova: 
+Permet provar totes les funcionalitats del joc complet.
+
+Altres elements de la prova: 
+Prova totes les classes de les tres capes.
+
+Executables:
+Totes els proves estan pensades per fer-se usant JocComplet.
+
+Valors estudiats:
+Els jocs de proves indiquen com provar totes les funcionalitats implementades. Aixo inclou jugar
+una partida com a codemaker, jugar com a codebreaker tant en classic com crono totes dues amb
+combinant totes les configuracions possibles (nombre de boles, colors repetits i mode ajuda en el 
+cas de codebreaker), tambe permet carregar partides guardades, consultar els ranquings i records
+i accedir a unes instruccions simples de com jugar.
+
+Operativa:
+L'executable consta d'una serie de vistes amb les quals l'usuari pot interactuar fent servir el ratoli.
+
+Vista inicial: Es tracta d'un menu on podem accedir a jugar una nova partida, carregar una partida
+guardada, consultar els ranquings, consultar els records, consultar com jugar i sortir.
+Per accedir a qualsevol d'aquestes funcionalitats simplement cal apretar el boto respectiu.
+
+Vista configuracio: Es tracta d'un menu on podem triar la configuracio per la partida que volem iniciar
+apretant sobre les opcions desitjades, un cop sleccionades apretem iniciar si volem procedir i menu si
+volem tornar al menu inicial.
+
+Vista tauler: Es mostren dues columnes, la de l'esquerra correspon als intents i la de la dreta a les
+correccions, en cas de jugar com a codemaker a la part superior tenim per indicar la solucio.
+Per determinar el nostre intent, correccio o solucio cal primer seleccionar un dels colors i despres
+apretar la posicio que es vol determinar, en gris fosc estara marcada la fila que toca emplenar.
+Despres de marcar la cadena que volem confirmem el joc respondra, repetim aquest proces fins acabar
+la partida. El boto de pausa permet fer una nova partida amb la mateixa configuracio, tornar al
+menu inicial i en el cas de codemaker en mode classic guardar.
+
+Vista ranquing: Permet seleccionar la configuracio de la partida i mostrara el ranquing per aquesta.
+Amb el boto de menu podtrem tornar al menu inicial.
+
+Vista records: Permet veure tots els records i tornar al menu inicial apretant el boto de menu.
+
+Vista com jugar: Permet veure un text que explica com jugar i tornar al menu inicial apretant el boto menu.

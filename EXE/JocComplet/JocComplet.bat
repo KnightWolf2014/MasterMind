@@ -1,0 +1,1 @@
+java -classpath ..\CLASS presentacio.controladors.CtrlPresentacio

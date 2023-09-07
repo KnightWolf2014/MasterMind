@@ -1,0 +1,1 @@
+L'executable permet executar els tests unitaris i torna la quantitat de tests fallits.

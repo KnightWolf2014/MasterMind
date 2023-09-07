@@ -1,0 +1,6 @@
+El directori conte la descripcio de l'equip i tots els directoris del projecte.
+
+DOCS: Els documents demanats per l'entrega, no hi ha codi.
+FONTS: Classes implementades per l'equip, tambe inclou el makefile.
+EXE: Els executables per provar les classes o funcionalitats implementades.
+lib: Les llibreries fetes servir en el desenvolupament del projecte.

@@ -1,0 +1,20 @@
+Objecte de la prova:
+Permet provar directament l'algoritme implementat per la primera entrega de manera interactiva.
+
+Altres elements de la prova: 
+Permet provar la clase FiveGuess.
+
+Drivers:
+El DriverFiveGuess ha estat construit per fer aquesta prova.
+
+Valors estudiats:
+S'han estudiat valors per codemaker establint solucions amb repeticions i sense i llargades
+de 4, 6 i 8 boles.
+
+Operativa:
+El driver consta d'una serie de menus que permeten configurar el tipus de solucio i despres
+permet entrar una solucio.
+
+Observacio:
+S'avisa que usar els jocs de prova que involucren el rol de codemaker per codis de 6 boles
+amb repeticions i 8 boles tenen un cost molt elevat, no es recomana el seu us.

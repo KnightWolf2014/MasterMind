@@ -1,0 +1,14 @@
+Conte tot el codi del nostre projecte i el makefile
+
+domini:
+	controladors: Conte les classes de tipus contolador.
+	exceptions: Conte les classes d'excepcions.
+	model: Conte les classes del programa.
+	stubs: Tots els stubs creats.
+	tests: Totes les classes de tests.
+	DriverFiveGuess.java: Classe pel driver que permet provar l'algoritme five guess.
+	DriverGenetic.java: Classe pel driver que permet provar l'algoritme genetic.
+	DriverJocComplet.java: Classe pel driver que permet provar el joc complet des del terminal.
+	DriverModeCrono.java: Classe que permet provar el mode crono.
+
+	

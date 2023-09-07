@@ -1,0 +1,5 @@
+Directori que conte els directoris de controladors, vistes i utils de la presentacio
+
+controladors: conte el controlador de presentacio.
+utils: conte classes utilitzades a les vistes.
+vistes: conte les classes de les vistes.

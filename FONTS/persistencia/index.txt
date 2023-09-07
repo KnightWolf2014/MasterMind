@@ -1,0 +1,5 @@
+Directori que conte tots els directoris de controladors, model i tests de la persistencia.
+
+controladors: conte el controlador de persistencia.
+model: conte les classes del model de persistencia.
+tests: conte els tests de les classes de la persistencia.

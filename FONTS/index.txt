@@ -1,0 +1,7 @@
+Conte tot el codi del projecte i el makefile per compilar-lo.
+
+domini: directori que conte totes les classes de la capa de domini.
+persistencia: directori que conte totes les classes de la capa de persistencia.
+presentacio: directori que conte totes les classes de la capa de presentacio.
+makefile.bat: makefile per compilar tot el projecte.
+

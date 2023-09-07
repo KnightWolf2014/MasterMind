@@ -1,0 +1,12 @@
+domini
+domini.controladors
+domini.exceptions
+domini.model
+domini.stubs
+domini.tests
+persistencia.controladors
+persistencia.model
+persistencia.tests
+presentacio.controladors
+presentacio.utils
+presentacio.vistes

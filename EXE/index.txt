@@ -1,0 +1,8 @@
+Directori que conte els directoris pels executables i el directori on es guarden els .class.
+
+CLASS: guarda els .class de tots els fitxers del projecte.
+DriverFiveGuess: Executable del driver de five guess.
+DriverJocComplet: Executable del driver del joc complet.
+JUnit: Executable pel runner de les proves unitaries.
+JocComplet: Executable pel joc complet amb les tres capes.
+

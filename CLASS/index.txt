@@ -1,0 +1,3 @@
+domini: conte tots els .class del domini.
+persistencia: conte tots els .class de la persistencia.
+presentacio: conte tots els .class de la presentacio.

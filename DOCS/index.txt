@@ -1,0 +1,5 @@
+Directori que conte les carpetes dels documents de les tres entregues
+
+Primera entrega: Conte els documents de la primera entrega
+Segona entrega: Conte els documents de la segona entrega
+Tercera entrega: Conte els documents de la tercera entrega

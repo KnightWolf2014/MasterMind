@@ -1,0 +1,27 @@
+Objecte de la prova:
+Permet provar tots els casos d'us implementats per la primera entrega de manera interactiva.
+
+Altres elements de la prova: 
+Prova totes les classes del domini (que ja han estat testejades a traves de tests unitaris),
+tambe permet provar la classe CtrlDomini.
+
+Drivers:
+El DriverJocComplet ha estat construit per fer aquesta prova.
+
+Valors estudiats:
+S'han estudiat valors per totes les possibles configuracions de la partida, es a dir es fan
+proves tant per codemaker com per codebreaker amb patrons amb repeticions i sense i
+llargades de 4, 6 i 8 boles.
+
+Operativa:
+El driver consta d'una serie de menus que permeten configurar la partida (triar rol, el
+nombre de boles i si es permeten repeticions). Per interactuar amb els menus cal entrar un
+enter corresponent a l'opcio desitjada. Quan s'escau, per entrar un patro cal introduir una
+serie d'enters separats per espais amb valors entre 0 i 7 inclosos i que s'adaptin a la
+configuracio establerta de la partida. Per entrar una correccio cal entrar una serie
+d'enters separats per espais amb valors entre 0 i 2 (0-valor no present, 1-valor en posicio
+incorrecta, 2-valor en posicio correcta).
+
+Observacio:
+S'avisa que usar els jocs de prova que involucren el rol de codemaker per codis de 6 boles
+amb repeticions i 8 boles tenen un cost molt elevat, no es recomana el seu us.

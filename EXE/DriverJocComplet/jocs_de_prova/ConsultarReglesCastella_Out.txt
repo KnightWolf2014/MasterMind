@@ -1,0 +1,98 @@
+---------------------------------------------------------------------
+----------------------  WELCOME TO MASTERMIND  ----------------------
+---------------------------------------------------------------------
+-- Choose one of the available options:
+-- 1) Start game
+-- 2) Load saved game ------ option not implemented yet
+-- 3) Show Rankings -------- option not implemented yet
+-- 4) How to play
+-- 5) Exit
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------
+---------------------------  HOW TO PLAY  ---------------------------
+---------------------------------------------------------------------
+-- Choose one language:
+-- 1) English
+-- 2) Castellano
+-- 3) Exit
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------
+------------------------ REGLAS CODEBREAKER -------------------------
+---------------------------------------------------------------------
+-- El ordenador elige una secuencia de colores. El número de colores
+   es la longitud del código. Por defecto la longitud es 4, pero
+   puede ser cambiada cuando se empiece un juego nuevo
+
+-- El objetivo del juego es adivinar las posiciones exactas de los
+   colores de la secuencia del ordenador
+
+-- Por defecto, un color puede ser usado solo una vez por secuencia.
+   Al empezar un juego se puede seleccionar la opción de colores
+   repetidos, en este caso, cualquier color puede se usado las veces
+   que se quiera
+
+-- Después de llenar una linea con los colores que veas convenientes
+   y al pulsar en el botón de corrección, el ordenador responderá con
+   el resultado de la secuencia.
+
+-- Para cada color de tú secuencia que sea correcto y este en la
+   posición correcta, el ordenador mostrarà un color rojo al lado
+   de la secuencia.
+
+-- Para cada color de tú secuencia que sea correcto pero que no este
+   en la posición correcta, el ordenador mostrarà un color blanco al
+   lado de la secuencia.
+
+-- Ganarás el juego si consigues adivinar la posición de todos los
+   colores de la secuencia.
+
+-- Perderàs el juego si no consigues adivinarlo
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------
+-------------------------  REGLAS CODEMAKER -------------------------
+---------------------------------------------------------------------
+-- Eliges una secuencia de colores. El número de colores
+   es la longitud del código. Por defecto la longitud es 4, pero
+   puede ser cambiada cuando se empiece un juego nuevo
+
+-- El objetivo del juego es intentar conseguir que el ordenador no
+   adivine los colores de la secuencia puesta por ti
+
+-- Por defecto, un color puede ser usado solo una vez por secuencia.
+   Al empezar un juego se puede seleccionar la opción de colores
+   repetidos, en este caso, cualquier color puede se usado las veces
+   que se quiera
+
+-- El ordenador llenará una linea con los colores que vea convenientes
+   y luego tendrás que corregirle la secuencia
+
+-- Para cada color de su secuencia que sea correcto y este en la
+   posición correcta, tendrás que marcar un color blanco al lado de
+   la secuencia.
+
+-- Para cada color de su secuencia que sea correcto pero que no este
+   en la posición correcta, tendrás que marcar un color negro al
+   lado de la secuencia.
+
+-- Ganarás el juego si consigues que el ordenador no adivine la
+   posición  de todos los colores de la secuencia.
+
+-- Perderàs el juego si el ordenador los adivina
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------

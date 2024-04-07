@@ -1,4 +1,10 @@
 # MasterMind
 
 
-Projecte de la materia de PROP de la UPC-FIB
+Proyect of PROP at UPC-FIB
+
+Made by:
+  Joel Corredor
+  Susanna Jané
+  Rosa Hortelano
+  Nicola Scognamillo
